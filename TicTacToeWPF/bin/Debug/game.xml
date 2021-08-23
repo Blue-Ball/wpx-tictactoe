@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <Opp>user</Opp>
+  <Turn>true</Turn>
+  <Move>
+    <Step id="1" time="65930546">
+      <Player id="10" type="user" />
+      <Play sign="X">00</Play>
+    </Step>
+    <Step id="2" time="66368093">
+      <Player id="10" type="user" />
+      <Play sign="O">02</Play>
+    </Step>
+  </Move>
+</Game>

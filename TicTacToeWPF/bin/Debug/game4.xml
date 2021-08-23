@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <Opp>computer</Opp>
+  <Turn>true</Turn>
+  <Move>
+    <Step id="1" time="65983625">
+      <Player id="10" type="user" />
+      <Play sign="X">11</Play>
+    </Step>
+    <Step id="2" time="65983625">
+      <Player id="10" type="computer" />
+      <Play sign="O">20</Play>
+    </Step>
+    <Step id="3" time="65985140">
+      <Player id="10" type="user" />
+      <Play sign="X">22</Play>
+    </Step>
+    <Step id="4" time="65985140">
+      <Player id="10" type="computer" />
+      <Play sign="O">00</Play>
+    </Step>
+    <Step id="5" time="65987328">
+      <Player id="10" type="user" />
+      <Play sign="X">10</Play>
+    </Step>
+    <Step id="6" time="65987343">
+      <Player id="10" type="computer" />
+      <Play sign="O">12</Play>
+    </Step>
+  </Move>
+</Game>
